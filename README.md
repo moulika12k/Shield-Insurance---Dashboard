@@ -48,8 +48,8 @@ This project was developed as part of my virtual internship and focuses on analy
 ## 🌐 Live Demo
 
 🔗 **Watch the dashboard walkthrough video here:**  
-[**Video Presentation:**](https://www.youtube.com/watch?v=hxgUlodZgO8)  
-[📺 **Dashboard Link:** ](https://www.novypro.com/project/shield-insurance---business-performance-dashboard)
+[🎥 **Video Presentation**](https://www.youtube.com/watch?v=hxgUlodZgO8)  
+[📊 **Dashboard Link** ](https://www.novypro.com/project/shield-insurance---business-performance-dashboard)
 
 ---
 
